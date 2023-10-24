@@ -33,5 +33,5 @@ We present example results and visualizations in our Jupyter notebooks, demonstr
 We have used standard evaluation metrics such as Mean Squared Error (MSE), Mean Absolute Error (MAE), and R-squared to measure the model's performance.
 
 
-##Customers Sales Forcast using LR model
+## Customers Sales Forcast using LR model
 ![sales_predicted](https://github.com/ankit-akash/sales_prediction/assets/75488501/9197e16c-69c1-4edc-9d62-6c55efb8fb05)
